@@ -59,7 +59,8 @@ dependencies {
     implementation ("com.github.bumptech.glide:glide:4.15.1")
 
     //CircularProgressIndicator
-    implementation ("com.github.antonKozyriatsky1:CircularProgressIndicator:1.3.0")
+    implementation ("com.github.User:Repo:Tag")
+    implementation ("com.github.antonKozyriatskyi:CircularProgressIndicator:1.3.0")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
